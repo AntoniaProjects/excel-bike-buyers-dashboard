@@ -1,5 +1,3 @@
-# excel-bike-buyers-dashboard
-Excel dashboard project using Pivot Tables, Charts, and Slicers for customer analysis.
 # Excel Bike Buyers Dashboard
 
 ## Project Overview
@@ -59,9 +57,9 @@ Built an interactive dashboard allowing users to filter results using slicers.
 * Commute distance showed a measurable impact on purchase decisions.
 
 ## Dashboard Preview
+<img width="1059" height="629" alt="dashboard_overview" src="https://github.com/user-attachments/assets/1dddbd0a-db22-4c88-a824-dbe7b5da233a" />
 
-(Add screenshot here)
 
 ## Author
 
-Created by [Your Name]
+Created by Antonia Utz
