@@ -74,7 +74,7 @@ Built an interactive dashboard allowing users to filter results using slicers.
 
 
 ## Dashboard Preview
-<img width="1059" height="629" alt="dashboard_overview" src="https://github.com/user-attachments/assets/1dddbd0a-db22-4c88-a824-dbe7b5da233a" />
+<img width="909" height="536" alt="dashboard_overview" src="https://github.com/user-attachments/assets/774a1055-3100-45eb-a09e-1230f4515df9" />
 
 
 ## Author
